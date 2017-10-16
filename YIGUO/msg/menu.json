@@ -1,0 +1,358 @@
+{
+    "Method": "",
+    "RspCode": 1,
+    "RspMsg": "",
+    "RspMsg": "",
+    "RspData": {
+        "data": [
+            {
+                "CategoryId": "e1680a10-9cd6-4ba1-98f9-50e02eb990cb",
+                "CategoryName": "精选肉类",
+                "CategoryCode": "05_channelhome",
+                "Description": "牛肉/猪肉/羊肉/火腿/培根",
+                "Childs": [
+                    {
+                        "CategoryId": "db6518e8-c360-46f7-b9ae-dbe4ae45e84c",
+                        "CategoryCode": "0504_yangrou",
+                        "CategoryName": "羊肉",
+                        "Grade": 2,
+                        "PriorId": "e1680a10-9cd6-4ba1-98f9-50e02eb990cb",
+                        "HighId": "e1680a10-9cd6-4ba1-98f9-50e02eb990cb",
+                        "PictureUrl": null,
+                        "Childs": []
+                    },
+                    {
+                        "CategoryId": "483ec0b6-3741-429b-aea8-5e4fefd5a88c",
+                        "CategoryCode": "0505_xiangchang",
+                        "CategoryName": "香肠",
+                        "Grade": 2,
+                        "PriorId": "e1680a10-9cd6-4ba1-98f9-50e02eb990cb",
+                        "HighId": "e1680a10-9cd6-4ba1-98f9-50e02eb990cb",
+                        "PictureUrl": null,
+                        "Childs": []
+                    },
+                    {
+                        "CategoryId": "424d3028-4d6d-40e9-b6ea-ca54de5583d7",
+                        "CategoryCode": "0506_huotui",
+                        "CategoryName": "火腿/培根",
+                        "Grade": 2,
+                        "PriorId": "e1680a10-9cd6-4ba1-98f9-50e02eb990cb",
+                        "HighId": "e1680a10-9cd6-4ba1-98f9-50e02eb990cb",
+                        "PictureUrl": null,
+                        "Childs": []
+                    },
+                    {
+                        "CategoryId": "c97c8152-1ef8-44cf-beb9-16c349bf5479",
+                        "CategoryCode": "0507_rouzhipin",
+                        "CategoryName": "肉制品",
+                        "Grade": 2,
+                        "PriorId": "e1680a10-9cd6-4ba1-98f9-50e02eb990cb",
+                        "HighId": "e1680a10-9cd6-4ba1-98f9-50e02eb990cb",
+                        "PictureUrl": null,
+                        "Childs": []
+                    }
+                ]
+            },
+            {
+                "CategoryId": "be7fa57d-ce6c-4040-82f9-4aef7af0a1cb",
+                "CategoryName": "禽类蛋品",
+                "CategoryCode": "06_channelhome",
+                "Description": "鸡/鸭/鹅/鸽/特色禽类/蛋",
+                "Childs": [
+                    {
+                        "CategoryId": "76e8b280-c4a6-4e81-8a25-891c8635358f",
+                        "CategoryCode": "0601_ji",
+                        "CategoryName": "鸡",
+                        "Grade": 2,
+                        "PriorId": "be7fa57d-ce6c-4040-82f9-4aef7af0a1cb",
+                        "HighId": "be7fa57d-ce6c-4040-82f9-4aef7af0a1cb",
+                        "PictureUrl": null,
+                        "Childs": []
+                    },
+                    {
+                        "CategoryId": "dced328e-b058-4f76-9583-b87637a03124",
+                        "CategoryCode": "0602_ya",
+                        "CategoryName": "鸭",
+                        "Grade": 2,
+                        "PriorId": "be7fa57d-ce6c-4040-82f9-4aef7af0a1cb",
+                        "HighId": "be7fa57d-ce6c-4040-82f9-4aef7af0a1cb",
+                        "PictureUrl": null,
+                        "Childs": []
+                    },
+                    {
+                        "CategoryId": "9eb1744e-050a-4c91-8097-8b50425cbfb9",
+                        "CategoryCode": "0603_egeteseqinlei",
+                        "CategoryName": "鹅/鸽/特色禽类",
+                        "Grade": 2,
+                        "PriorId": "be7fa57d-ce6c-4040-82f9-4aef7af0a1cb",
+                        "HighId": "be7fa57d-ce6c-4040-82f9-4aef7af0a1cb",
+                        "PictureUrl": null,
+                        "Childs": []
+                    },
+                    {
+                        "CategoryId": "c239bd4b-81dc-41dd-9291-05283648fa8f",
+                        "CategoryCode": "0604_dan",
+                        "CategoryName": "蛋",
+                        "Grade": 2,
+                        "PriorId": "be7fa57d-ce6c-4040-82f9-4aef7af0a1cb",
+                        "HighId": "be7fa57d-ce6c-4040-82f9-4aef7af0a1cb",
+                        "PictureUrl": null,
+                        "Childs": []
+                    }
+                ]
+            },
+            {
+                "CategoryId": "34c19d99-19a6-4e86-9144-18a8670cc577",
+                "CategoryName": "海鲜水产",
+                "CategoryCode": "04_channelhome",
+                "Description": "鱼/虾/蟹/贝/海产干货",
+                "Childs": [
+                    {
+                        "CategoryId": "4b39faa9-96ab-453f-90c3-93aa7cee24c8",
+                        "CategoryCode": "0401_yu",
+                        "CategoryName": "鱼",
+                        "Grade": 2,
+                        "PriorId": "34c19d99-19a6-4e86-9144-18a8670cc577",
+                        "HighId": "34c19d99-19a6-4e86-9144-18a8670cc577",
+                        "PictureUrl": null,
+                        "Childs": []
+                    },
+                    {
+                        "CategoryId": "d9e3b53c-344d-4a83-b298-e61008e1b1bc",
+                        "CategoryCode": "0402_sanwenyu",
+                        "CategoryName": "三文鱼",
+                        "Grade": 2,
+                        "PriorId": "34c19d99-19a6-4e86-9144-18a8670cc577",
+                        "HighId": "34c19d99-19a6-4e86-9144-18a8670cc577",
+                        "PictureUrl": null,
+                        "Childs": []
+                    },
+                    {
+                        "CategoryId": "75b795d9-b684-4676-bde4-224f44545b31",
+                        "CategoryCode": "0403_xia",
+                        "CategoryName": "虾",
+                        "Grade": 2,
+                        "PriorId": "34c19d99-19a6-4e86-9144-18a8670cc577",
+                        "HighId": "34c19d99-19a6-4e86-9144-18a8670cc577",
+                        "PictureUrl": null,
+                        "Childs": []
+                    },
+                    {
+                        "CategoryId": "8496be00-ccce-4e04-870b-dbf143357ab5",
+                        "CategoryCode": "0404_xie",
+                        "CategoryName": "蟹",
+                        "Grade": 2,
+                        "PriorId": "34c19d99-19a6-4e86-9144-18a8670cc577",
+                        "HighId": "34c19d99-19a6-4e86-9144-18a8670cc577",
+                        "PictureUrl": null,
+                        "Childs": []
+                    },
+                    {
+                        "CategoryId": "fa496d72-50c6-4477-bdd3-6d8d71bc8e36",
+                        "CategoryCode": "0405_beilei",
+                        "CategoryName": "贝",
+                        "Grade": 2,
+                        "PriorId": "34c19d99-19a6-4e86-9144-18a8670cc577",
+                        "HighId": "34c19d99-19a6-4e86-9144-18a8670cc577",
+                        "PictureUrl": null,
+                        "Childs": []
+                    },
+                    {
+                        "CategoryId": "ded0caba-6c76-44bc-ae5e-15971cbac694",
+                        "CategoryCode": "0406_huoxian",
+                        "CategoryName": "活鲜",
+                        "Grade": 2,
+                        "PriorId": "34c19d99-19a6-4e86-9144-18a8670cc577",
+                        "HighId": "34c19d99-19a6-4e86-9144-18a8670cc577",
+                        "PictureUrl": null,
+                        "Childs": []
+                    },
+                    {
+                        "CategoryId": "dc40812a-911b-47b7-ad4d-85b7e2615457",
+                        "CategoryCode": "0407_haichanganhuo",
+                        "CategoryName": "海产干货",
+                        "Grade": 2,
+                        "PriorId": "34c19d99-19a6-4e86-9144-18a8670cc577",
+                        "HighId": "34c19d99-19a6-4e86-9144-18a8670cc577",
+                        "PictureUrl": null,
+                        "Childs": []
+                    },
+                    {
+                        "CategoryId": "72228b91-2f01-4ee7-9da7-4dea02c13e3c",
+                        "CategoryCode": "0408_tesehaichan",
+                        "CategoryName": "特色海产",
+                        "Grade": 2,
+                        "PriorId": "34c19d99-19a6-4e86-9144-18a8670cc577",
+                        "HighId": "34c19d99-19a6-4e86-9144-18a8670cc577",
+                        "PictureUrl": null,
+                        "Childs": []
+                    }
+                ]
+            },
+            {
+                "CategoryId": "a250e942-b409-4483-8e37-57268ea15762",
+                "CategoryName": "乳品糕点",
+                "CategoryCode": "08_channelhome",
+                "Description": "蛋糕/甜点/奶酪/黄油/酸奶",
+                "Childs": [
+                    {
+                        "CategoryId": "8252482f-f825-462d-828a-7b0a16e7f5a3",
+                        "CategoryCode": "0805_mianbao",
+                        "CategoryName": "面包",
+                        "Grade": 2,
+                        "PriorId": "a250e942-b409-4483-8e37-57268ea15762",
+                        "HighId": "a250e942-b409-4483-8e37-57268ea15762",
+                        "PictureUrl": null,
+                        "Childs": []
+                    }
+                ]
+            },
+            {
+                "CategoryId": "d5562ffa-2e72-4cea-9807-e481d06472f6",
+                "CategoryName": "方便速食",
+                "CategoryCode": "10_channelhome",
+                "Description": "主食/冷藏熟食/半成品菜",
+                "Childs": [
+                    {
+                        "CategoryId": "0038429e-74e5-4d76-9c06-22855b9d3636",
+                        "CategoryCode": "1001_lengdongdianxin",
+                        "CategoryName": "冷冻点心",
+                        "Grade": 2,
+                        "PriorId": "d5562ffa-2e72-4cea-9807-e481d06472f6",
+                        "HighId": "d5562ffa-2e72-4cea-9807-e481d06472f6",
+                        "PictureUrl": null,
+                        "Childs": []
+                    },
+                    {
+                        "CategoryId": "400af3d9-f796-48ea-8faa-4f2057fd9ff7",
+                        "CategoryCode": "1002_xishizhushi",
+                        "CategoryName": "西式主食",
+                        "Grade": 2,
+                        "PriorId": "d5562ffa-2e72-4cea-9807-e481d06472f6",
+                        "HighId": "d5562ffa-2e72-4cea-9807-e481d06472f6",
+                        "PictureUrl": null,
+                        "Childs": []
+                    },
+                    {
+                        "CategoryId": "297f9732-a901-4d42-a7cd-a2cf61bdc99b",
+                        "CategoryCode": "1003_zhongshizhushi",
+                        "CategoryName": "中式主食",
+                        "Grade": 2,
+                        "PriorId": "d5562ffa-2e72-4cea-9807-e481d06472f6",
+                        "HighId": "d5562ffa-2e72-4cea-9807-e481d06472f6",
+                        "PictureUrl": null,
+                        "Childs": []
+                    },
+                    {
+                        "CategoryId": "e6898b2c-850d-4b75-9f2c-e19c5af0de33",
+                        "CategoryCode": "1004_huoguoliao",
+                        "CategoryName": "火锅料",
+                        "Grade": 2,
+                        "PriorId": "d5562ffa-2e72-4cea-9807-e481d06472f6",
+                        "HighId": "d5562ffa-2e72-4cea-9807-e481d06472f6",
+                        "PictureUrl": null,
+                        "Childs": []
+                    },
+                    {
+                        "CategoryId": "c310845a-e757-472d-acaf-235ffa99f40d",
+                        "CategoryCode": "1005_lengcangshushi",
+                        "CategoryName": "冷藏熟食",
+                        "Grade": 2,
+                        "PriorId": "d5562ffa-2e72-4cea-9807-e481d06472f6",
+                        "HighId": "d5562ffa-2e72-4cea-9807-e481d06472f6",
+                        "PictureUrl": null,
+                        "Childs": []
+                    },
+                    {
+                        "CategoryId": "ad54ecd7-2af6-4c39-b88a-6767d6a4aeb4",
+                        "CategoryCode": "1006_banchengpincai",
+                        "CategoryName": "半成品菜",
+                        "Grade": 2,
+                        "PriorId": "d5562ffa-2e72-4cea-9807-e481d06472f6",
+                        "HighId": "d5562ffa-2e72-4cea-9807-e481d06472f6",
+                        "PictureUrl": null,
+                        "Childs": []
+                    }
+                ]
+            },
+            {
+                "CategoryId": "bbbf4838-2574-4e71-9f96-328e664e6e1e",
+                "CategoryName": "粮油杂货",
+                "CategoryCode": "07_channelhome",
+                "Description": "米/面/杂粮/油/调味料",
+                "Childs": [
+                    {
+                        "CategoryId": "6ac1ffc4-97a6-4cfb-b450-1862a05f040f",
+                        "CategoryCode": "0701_mi",
+                        "CategoryName": "米",
+                        "Grade": 2,
+                        "PriorId": "bbbf4838-2574-4e71-9f96-328e664e6e1e",
+                        "HighId": "bbbf4838-2574-4e71-9f96-328e664e6e1e",
+                        "PictureUrl": null,
+                        "Childs": []
+                    },
+                    {
+                        "CategoryId": "e8460963-aa4a-4911-8220-9394117cecd6",
+                        "CategoryCode": "0702_zaliang",
+                        "CategoryName": "杂粮",
+                        "Grade": 2,
+                        "PriorId": "bbbf4838-2574-4e71-9f96-328e664e6e1e",
+                        "HighId": "bbbf4838-2574-4e71-9f96-328e664e6e1e",
+                        "PictureUrl": null,
+                        "Childs": []
+                    },
+                    {
+                        "CategoryId": "11f8065c-1001-4962-a6df-d05370e3b64c",
+                        "CategoryCode": "0703_mianmianzhipin",
+                        "CategoryName": "面/面制品",
+                        "Grade": 2,
+                        "PriorId": "bbbf4838-2574-4e71-9f96-328e664e6e1e",
+                        "HighId": "bbbf4838-2574-4e71-9f96-328e664e6e1e",
+                        "PictureUrl": null,
+                        "Childs": []
+                    },
+                    {
+                        "CategoryId": "15d4d187-3647-4fb7-a0c2-4c3d4fe1d0fc",
+                        "CategoryCode": "0704_you",
+                        "CategoryName": "油",
+                        "Grade": 2,
+                        "PriorId": "bbbf4838-2574-4e71-9f96-328e664e6e1e",
+                        "HighId": "bbbf4838-2574-4e71-9f96-328e664e6e1e",
+                        "PictureUrl": null,
+                        "Childs": []
+                    },
+                    {
+                        "CategoryId": "a3e461f2-5c83-41ef-80e9-0a12eb503157",
+                        "CategoryCode": "0705_tiaoweiliao",
+                        "CategoryName": "调味料",
+                        "Grade": 2,
+                        "PriorId": "bbbf4838-2574-4e71-9f96-328e664e6e1e",
+                        "HighId": "bbbf4838-2574-4e71-9f96-328e664e6e1e",
+                        "PictureUrl": null,
+                        "Childs": []
+                    },
+                    {
+                        "CategoryId": "1339af62-7b56-4067-861e-f89b9e265f03",
+                        "CategoryCode": "0706_ganhuo",
+                        "CategoryName": "干货",
+                        "Grade": 2,
+                        "PriorId": "bbbf4838-2574-4e71-9f96-328e664e6e1e",
+                        "HighId": "bbbf4838-2574-4e71-9f96-328e664e6e1e",
+                        "PictureUrl": null,
+                        "Childs": []
+                    },
+                    {
+                        "CategoryId": "33a7a858-ef0c-48fd-b8ec-fc2a55337461",
+                        "CategoryCode": "0707_guoganlingshi",
+                        "CategoryName": "果干/零食",
+                        "Grade": 2,
+                        "PriorId": "bbbf4838-2574-4e71-9f96-328e664e6e1e",
+                        "HighId": "bbbf4838-2574-4e71-9f96-328e664e6e1e",
+                        "PictureUrl": null,
+                        "Childs": []
+                    }
+                ]
+            }
+        ]
+    }
+}

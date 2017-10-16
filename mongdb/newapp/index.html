@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Document</title>
+    <script type="text/javascript" src = 'jquery-1.11.3.min.js'></script>
+    
+</head>
+<body>
+    <input type = 'checkbox' class = 'dianji' />
+    <script type="text/javascript">
+        
+            $.ajax({
+                type:"get",
+                url:"http://weixin.m.yiguo.com/CategoryOpt/GetCategory",
+                async:true,
+                dataType:"json",
+                scriptCharset: 'GBK',
+                success:function(data){
+                    console.log(data);
+                }
+            });
+
+        
+    </script>
+
+</body>    
+</html>
